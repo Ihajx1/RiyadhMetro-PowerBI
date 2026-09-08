@@ -51,7 +51,10 @@ The dashboard provides an interactive view of the Riyadh Metro network, allowing
 
 
 
-https://github.com/user-attachments/assets/65cc3adc-1b7c-497d-b0dc-934786ad8acb
+
+
+https://github.com/user-attachments/assets/9b788e20-aa96-4c6b-998b-0fc4b685f6ba
+
 
 
 
